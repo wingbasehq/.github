@@ -4,7 +4,7 @@
 
 <h1 align="center">Wingbase</h1>
 <p align="center">
-  The compliance-focus agent framework and platform
+  The compliance-focused agent framework and platform
 </p>
 
 <p align="center">
