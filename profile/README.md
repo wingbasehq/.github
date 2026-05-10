@@ -2,8 +2,11 @@
   <img src="./WingmanBlue.png" alt="Wingman" width="200" />
 </p>
 
-<h1 align="center">Wingman</h1>
+<h1 align="center">Wingbase</h1>
+<p align="center">
+  The compliance-focus agent framework and platform
+</p>
 
 <p align="center">
-  An open source project — <a href="https://wingman.actor">wingman.actor</a>
+  The open source project — <a href="https://wingman.actor">wingman.actor</a>
 </p>
